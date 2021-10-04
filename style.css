@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.index-h3 {
+    color: orange;
+    text-align: center;
+}
+
+.index-li {
+    margin-left: 50%;
+}
+
+span {
+    font-weight: bold;
+}
